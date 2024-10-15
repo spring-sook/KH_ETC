@@ -316,3 +316,5 @@ FROM EMP
 SELECT * FROM EMP
 
 -- (PASS)19. **오늘 날짜에서 년도만 추출**
+
+-- 나머진 다음에!

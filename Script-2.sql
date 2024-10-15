@@ -14,3 +14,5 @@ SELECT ROUND(1234.5678) AS "ROUND", -- 소수점 첫째자리에서 반올림해
 	ROUND(1234.5678, -1) AS "ROUND_MINUS1", -- 정수 첫번째 자리를 반올림 1230
 	ROUND(1234.5678, -2) AS "ROUND_MINUS2" -- 정수 두번째 자리를 반올림 1200
 FROM dual;
+
+-- 오늘은 여기까지이
